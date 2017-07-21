@@ -1,6 +1,7 @@
 # vue-cityPicker
 vue2.0+ 移动端 城市选择器
 仿京东app的地址管理的城市选择器ui
+
 ![demo](./assets/demo.gif)
 ## install
 use npm
