@@ -5,7 +5,7 @@ vue2.0+ 移动端 城市选择器
 ## install
 use npm
 ````
-npm install vue-cityPicker --save
+npm install vue-citypicker --save
 ````
 
 ## usage
@@ -25,7 +25,7 @@ npm install vue-cityPicker --save
 </template>
 
 <script>
-import CityPicker from 'vue-cityPicker';
+import CityPicker from 'vue-citypicker';
 
 export default {
   name: 'app',
