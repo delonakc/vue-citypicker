@@ -1,7 +1,7 @@
 # vue-cityPicker
 vue2.0+ 移动端 城市选择器
 仿京东app的地址管理的城市选择器ui
-
+![demo](./assets/demo.gif)
 ## install
 use npm
 ````
@@ -66,6 +66,6 @@ button{
 | defaultData | 设置默认显示数据               | Array   | []    |
 
  #### options
-| 方法          | 说明     | 类型       | 返回值                                      |
+| 方法        | 说明     | 类型       | 返回值                                      |
 | --------- | ------ | -------- | ---------------------------------------- |
-| on-finish    | 选择后的回调 | Function | `Object`, 例子： `{ province : { name: '北京市', code: '11000' }, city: {name: '东城区', code: '110101' }, area: { name: '', code: '' } } `|
+| on-finish | 选择后的回调 | Function | `Object`, 例子： `{ province : { name: '北京市', code: '11000' }, city: {name: '东城区', code: '110101' }, area: { name: '', code: '' } } ` |
